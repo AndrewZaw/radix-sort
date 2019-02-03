@@ -4,7 +4,7 @@ Variation of the classic radix sort algorithm
 ## Usage
 
 ```
-Array = array
+Array = []
 sortArray(Array)
 ```
 
