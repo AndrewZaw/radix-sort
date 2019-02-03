@@ -4,11 +4,11 @@ Variation of the classic radix sort algorithm
 ## Usage
 
 ```
-Array = [1,22,333]
+Array = array
 sortArray(Array)
 ```
 
-to sort Array in time complexity O(kn) where k = number of digits in largest number.
+to sort array in time complexity O(kn) where k = number of digits in largest number.
 
 ## Examples
 
