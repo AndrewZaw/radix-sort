@@ -48,5 +48,3 @@ def sortArray(Array):
 # driver code
 Array = [-470,1911,120,-314,-4,1871,1749,1588,195,1097]
 print(sortArray(Array))
-
-
